@@ -14,3 +14,10 @@ Task:
 -do a git add (track/stage) and create a commit
 -push your branch
 -other coworkers should see them (after a git fetch or after gitkraken refreses the view)
+
+#merge
+
+-merge your branch locally on master
+-push master new version
+-other coworker pulls the new master
+-other coworker pulls their branches one by one in their local master and push master new version
