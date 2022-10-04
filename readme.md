@@ -21,3 +21,16 @@ Task:
 -push master new version
 -other coworker pulls the new master
 -other coworker pulls their branches one by one in their local master and push master new version
+
+
+#pull request
+
+-each dev creates a local branch
+-add some commits (work on something)
+-each push the feature branch
+-each dev opens a pull request (PR)
+-request a review from your coworker
+-the other one approves or ask for modification
+-merge on github
+-pull the new master locally
+-remov the merged feature branch (both local and remote)
